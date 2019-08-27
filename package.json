@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "es6-promisify": "^6.0.0",
+    "es6-promisify": "6.0.1",
     "httpreq": "^0.4.24"
   },
   "devDependencies": {
